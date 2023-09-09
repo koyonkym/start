@@ -91,6 +91,11 @@ img {
   line-height: 1;
 }
 
+.header__nav {
+  display: flex;
+  align-items: center;
+}
+
 
 .gnav__list {
   display: flex;
